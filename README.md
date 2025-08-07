@@ -12,7 +12,7 @@ browser_extensions/
 
 ## 🚀 Extensions Overview
 
-### 1. 🤖 [Dependency Auto Approver](./github%20pr%20approver/)
+### 1. 🤖 [Dependency Auto Approver](github%20pr%20approver/)
 
 A Chrome extension that automatically approves Dependabot and Renovate pull requests on GitHub while intelligently managing reviewers.
 
@@ -29,7 +29,7 @@ A Chrome extension that automatically approves Dependabot and Renovate pull requ
 
 ---
 
-### 2. 💼 [Job Referral Assistant](./job-referral-extension/)
+### 2. 💼 [Job Referral Assistant](job-referral-extension/)
 
 A Chrome extension that automates the process of referring friends and contacts to job opportunities through employee portals.
 
@@ -146,8 +146,8 @@ This project is licensed under the MIT License - see individual extension folder
 
 ## 🔗 Links
 
-- [GitHub PR Approver Documentation](./github%20pr%20approver/README.md)
-- [Job Referral Assistant Files](./job-referral-extension/)
+- [GitHub PR Approver Documentation](github%20pr%20approver/README.md)
+- [Job Referral Assistant Files](job-referral-extension/)
 
 ## 📞 Support
 
