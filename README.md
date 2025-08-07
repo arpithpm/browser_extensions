@@ -29,7 +29,7 @@ A Chrome extension that automatically approves Dependabot and Renovate pull requ
 
 ---
 
-### 2. 💼 [Job Referral Assistant](https://github.com/arpithpm/job-referral-extension)
+### 2. 💼 [Job Referral Assistant](https://github.com/arpithpm/job-referral-extension.git)
 
 A Chrome extension that automates the process of referring friends and contacts to job opportunities through employee portals.
 
